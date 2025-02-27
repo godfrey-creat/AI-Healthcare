@@ -1,0 +1,15 @@
+# Backend dependencies
+Flask==2.2.5
+Flask-Cors==3.0.10
+firebase-admin==6.2.0
+torch==2.1.0
+transformers==4.34.0
+openai-whisper==20230918
+
+# Streamlit UI
+streamlit==1.30.0
+requests==2.31.0
+
+# Additional dependencies
+#gunicorn==21.2.0  # If deploying the backend on a server
+
