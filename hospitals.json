@@ -1,0 +1,534 @@
+[
+    {
+        "name": "Aga Khan University Hospital",
+        "location": "Nairobi",
+        "specialties": [
+            "Cardiology",
+            "Oncology",
+            "Neurology",
+            "Orthopedics",
+            "Pediatrics",
+            "Maternity"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 20,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Nairobi Hospital",
+        "location": "Nairobi",
+        "specialties": [
+            "Emergency Care",
+            "Surgery",
+            "Dialysis",
+            "Radiology",
+            "Physiotherapy",
+            "ICU"
+        ],
+        "capacity": 150,
+        "current_load": 60,
+        "emergency_beds": 40,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Mater Hospital",
+        "location": "Nairobi",
+        "specialties": [
+            "General Medicine",
+            "ENT",
+            "Gastroenterology",
+            "Endocrinology",
+            "Psychiatry",
+            "Dermatology"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Kenyatta National Hospital",
+        "location": "Nairobi",
+        "specialties": [
+            "Cancer Treatment",
+            "Urology",
+            "Neonatal Care",
+            "Pulmonology",
+            "Neurosurgery",
+            "Hematology"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Coast General Hospital",
+        "location": "Mombasa",
+        "specialties": [
+            "Emergency Care",
+            "Maternity",
+            "Pediatrics",
+            "Surgical Services",
+            "Rehabilitation",
+            "Dentistry"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Mombasa Hospital",
+        "location": "Mombasa",
+        "specialties": [
+            "Gynecology",
+            "Cardiology",
+            "Neurology",
+            "Radiology",
+            "Oncology",
+            "Diabetes Care"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Pandya Memorial Hospital",
+        "location": "Mombasa",
+        "specialties": [
+            "Dental Care",
+            "Endocrinology",
+            "Physiotherapy",
+            "Neurosurgery",
+            "Geriatrics",
+            "Neonatal Care"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Aga Khan Hospital Mombasa",
+        "location": "Mombasa",
+        "specialties": [
+            "General Medicine",
+            "Surgery",
+            "ENT",
+            "Psychiatry",
+            "Dermatology",
+            "Nephrology"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Jaramogi Oginga Odinga Hospital",
+        "location": "Kisumu",
+        "specialties": [
+            "General Medicine",
+            "Maternity",
+            "Pediatrics",
+            "Oncology",
+            "Neurosurgery",
+            "Orthopedics"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Aga Khan Hospital Kisumu",
+        "location": "Kisumu",
+        "specialties": [
+            "Cardiology",
+            "Dialysis",
+            "Emergency Care",
+            "ENT",
+            "Dermatology",
+            "Neonatal Care"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Moi Teaching and Referral Hospital",
+        "location": "Eldoret",
+        "specialties": [
+            "Neurosurgery",
+            "Radiology",
+            "Urology",
+            "Diabetes Care",
+            "Oncology",
+            "Orthopedics"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "St. Luke\u2019s Orthopaedic Hospital",
+        "location": "Eldoret",
+        "specialties": [
+            "Orthopedics",
+            "Trauma Care",
+            "Rehabilitation",
+            "Plastic Surgery",
+            "Physiotherapy",
+            "Pediatrics"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Mediheal Hospital",
+        "location": "Nakuru",
+        "specialties": [
+            "Cardiology",
+            "Surgery",
+            "ICU",
+            "Oncology",
+            "Gastroenterology",
+            "Neurology"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "War Memorial Hospital",
+        "location": "Nakuru",
+        "specialties": [
+            "Emergency Care",
+            "Dialysis",
+            "Endocrinology",
+            "Radiology",
+            "Gynecology",
+            "ENT"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Aga Khan University Hospital",
+        "location": "Karachi",
+        "specialties": [
+            "Cardiology",
+            "Oncology",
+            "Neurology",
+            "Orthopedics",
+            "Pediatrics",
+            "Maternity"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Liaquat National Hospital",
+        "location": "Karachi",
+        "specialties": [
+            "Emergency Care",
+            "Surgery",
+            "Dialysis",
+            "Radiology",
+            "Physiotherapy",
+            "ICU"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "South City Hospital",
+        "location": "Karachi",
+        "specialties": [
+            "General Medicine",
+            "ENT",
+            "Gastroenterology",
+            "Endocrinology",
+            "Psychiatry",
+            "Dermatology"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Indus Hospital",
+        "location": "Karachi",
+        "specialties": [
+            "Cancer Treatment",
+            "Urology",
+            "Neonatal Care",
+            "Pulmonology",
+            "Neurosurgery",
+            "Hematology"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Shaukat Khanum Memorial Hospital",
+        "location": "Lahore",
+        "specialties": [
+            "Oncology",
+            "Surgical Services",
+            "Radiotherapy",
+            "Pediatric Oncology",
+            "Hematology",
+            "Pain Management"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Punjab Institute of Cardiology",
+        "location": "Lahore",
+        "specialties": [
+            "Cardiology",
+            "Heart Surgery",
+            "Stroke Management",
+            "Emergency Care",
+            "Rehabilitation",
+            "ICU"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Jinnah Hospital Lahore",
+        "location": "Lahore",
+        "specialties": [
+            "General Medicine",
+            "Neurology",
+            "Orthopedics",
+            "ENT",
+            "Dermatology",
+            "Diabetes Care"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Services Hospital Lahore",
+        "location": "Lahore",
+        "specialties": [
+            "Gynecology",
+            "Neurosurgery",
+            "Dialysis",
+            "Urology",
+            "Gastroenterology",
+            "Endocrinology"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Holy Family Hospital",
+        "location": "Rawalpindi",
+        "specialties": [
+            "General Medicine",
+            "Maternity",
+            "Pediatrics",
+            "Oncology",
+            "Neurosurgery",
+            "Orthopedics"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Benazir Bhutto Hospital",
+        "location": "Rawalpindi",
+        "specialties": [
+            "Cardiology",
+            "Dialysis",
+            "Emergency Care",
+            "ENT",
+            "Dermatology",
+            "Neonatal Care"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Allied Hospital",
+        "location": "Faisalabad",
+        "specialties": [
+            "Neurosurgery",
+            "Radiology",
+            "Urology",
+            "Diabetes Care",
+            "Oncology",
+            "Orthopedics"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Faisalabad Institute of Cardiology",
+        "location": "Faisalabad",
+        "specialties": [
+            "Cardiology",
+            "Heart Surgery",
+            "Stroke Management",
+            "Emergency Care",
+            "Rehabilitation",
+            "ICU"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Nishtar Hospital",
+        "location": "Multan",
+        "specialties": [
+            "Cardiology",
+            "Surgery",
+            "ICU",
+            "Oncology",
+            "Gastroenterology",
+            "Neurology"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    },
+    {
+        "name": "Children\u2019s Hospital Multan",
+        "location": "Multan",
+        "specialties": [
+            "Pediatrics",
+            "Neonatal Care",
+            "Endocrinology",
+            "Radiology",
+            "Gynecology",
+            "ENT"
+        ],
+        "capacity": 100,
+        "current_load": 50,
+        "emergency_beds": 10,
+        "coordinates": {
+            "lat": 0.0,
+            "lng": 0.0
+        }
+    }
+]
